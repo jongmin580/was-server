@@ -1,0 +1,23 @@
+{
+	"port": 8080,
+	"hosts": {
+		"a.com": {
+			"HTTP_ROOT": "/a_domain",
+			"ERROR_403": "403.html",
+			"ERROR_404": "404.html",
+			"ERROR_500": "500.html"
+		},
+		"b.com": {
+			"HTTP_ROOT": "/b_domain",
+			"ERROR_403": "403.html",
+			"ERROR_404": "404.html",
+			"ERROR_500": "500.html"
+		},
+		"default": {
+			"HTTP_ROOT": "/",
+			"ERROR_403": "403.html",
+			"ERROR_404": "404.html",
+			"ERROR_500": "500.html"
+		}
+	}
+}
