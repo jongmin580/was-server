@@ -1,4 +1,4 @@
-# WAS 서버 개발 과제
+# WAS 서버 개발
 JAVA 11 Version Use, Maven 3.1.0 Version Use
 # 패키지 구조
 wasserver
